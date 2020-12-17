@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    font-variant: initial;
+    font-size: 32px;
+    color: rgb(29, 95, 149);
+    background-image:url(../img/AdobeStock_271535719_Preview.jpeg);
+    background-size: 100%;   
+    background-color: rgb(187, 186, 186);
+}
+div{
+    border: solid 1px black;
+    height: 280px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+    border-radius: 20px;
+}
+
+input[type="button"]{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(80, 80, 190);
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+table{
+    display: inline-flex;
+}
+
+#display{
+    text-align: center;  
+    font-size: 22px;
+    color: black;
+    border-radius:15px;
+    height: 40px;
+    width: 259px;
+    background-color: rgb(221, 217, 217);
+}
+
+input[value="1"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="2"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="3"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="4"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="5"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="6"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="7"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="8"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="9"]{
+    background-color: rgb(34, 34, 138);
+}
+input[value="0"]{
+    background-color: rgb(34, 34, 138);
+}
