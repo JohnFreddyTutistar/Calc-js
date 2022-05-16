@@ -2,28 +2,37 @@ body{
     text-align: center;
     font-variant: initial;
     font-size: 32px;
-    color: #fff;
+    color: #095;
     background-size: 100%;   
-    background-color: #222;
+    background-color: #000;
     font-family: 'Koulen', cursive;
+    text-shadow: 2px 3px 2px #fff;
 }
 div{
-    border: solid 2px #fff;
+    border: solid 2px #094;
     height: 400px;
     width: 320px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 1%;
     border-radius: 20px;
+    background-color: #111;
 }
 
 input[type="button"]{
     width: 40px;
     height: 40px;
-    background-color: rgb(80, 80, 190);
+    background-color: #000; 
     color: white;
     border-radius: 10px;
     font-size: 20px;
+    cursor: pointer;
+    transition: .8;
+    border: solid 2px #094;
+}
+input[type="button"]:hover{
+    background-color: #111;
+    transition: .5;
 }
 
 table{
@@ -37,36 +46,36 @@ table{
     border-radius:15px;
     height: 40px;
     width: 259px;
-    background-color: rgb(221, 217, 217);
+    background-color: rgb(146, 146, 146);
 }
 
 input[value="1"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="2"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="3"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="4"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="5"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="6"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="7"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="8"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="9"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
 input[value="0"]{
-    background-color: rgb(34, 34, 138);
+    background-color: rgb(4, 94, 44);
 }
