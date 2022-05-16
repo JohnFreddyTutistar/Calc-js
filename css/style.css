@@ -2,15 +2,15 @@ body{
     text-align: center;
     font-variant: initial;
     font-size: 32px;
-    color: rgb(29, 95, 149);
-    background-image:url(../img/AdobeStock_271535719_Preview.jpeg);
+    color: #fff;
     background-size: 100%;   
-    background-color: rgb(187, 186, 186);
+    background-color: #222;
+    font-family: 'Koulen', cursive;
 }
 div{
-    border: solid 1px black;
-    height: 280px;
-    width: 300px;
+    border: solid 2px #fff;
+    height: 400px;
+    width: 320px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 1%;
